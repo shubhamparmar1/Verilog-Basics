@@ -30,7 +30,7 @@ This repository contains Verilog projects that focus on the fundamentals of digi
   - `sequential_circuit_tb_example1.v`: Testbench for the sequential circuit.
 
 ## Folder Structure
-(This is for example of structure of folder)
+(This is for example of structure of folder, Please read .pdf files for more details.)
 
 verilog-basics-projects/  
 │  
