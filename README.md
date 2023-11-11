@@ -4,6 +4,8 @@
 
 This repository contains Verilog projects that focus on the fundamentals of digital design, specifically combinatorial and sequential circuits. The projects include both the Verilog code for the circuits and their corresponding testbenches for verification. The development environment used for these projects is Xilinx Vivado.
 
+![Vivado](https://github.com/shubhamparmar1/Verilog-Basics/blob/main/vivado.png)
+
 ## Table of Contents
 
 - [Project Descriptions](#project-descriptions)
