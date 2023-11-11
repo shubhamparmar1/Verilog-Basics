@@ -30,19 +30,19 @@ This repository contains Verilog projects that focus on the fundamentals of digi
 ## Folder Structure
 (This is for example of structure of folder)
 
-verilog-basics-projects/
-│
-├── combinational_circuits/
-│   ├── behavioural_codes.v
-│   ├── testbanch_tb.v 
-|   └── PDF file with explaination
-│
-├── sequential_circuits/
-│   ├── behavioural_codes.v
-│   ├── testbanch_tb.v
-|   └── PDF file with explaination
-│ 
-└── README.md
+verilog-basics-projects/  
+│  
+├── combinational_circuits/  
+│   ├── behavioural_codes.v  
+│   ├── testbanch_tb.v  
+│   ├── PDF file with explaination  
+│   
+├── sequential_circuits/  
+│   ├── behavioural_codes.v  
+│   ├── testbanch_tb.v  
+│   └── PDF file with explaination  
+│  
+└── README.md  
 
 
 ## Getting Started
